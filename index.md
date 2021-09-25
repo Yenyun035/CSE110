@@ -22,6 +22,7 @@
 
 ## What to learn and do
 > Life is a long trip....
+
 - [ ] WebDev frameworks \(React or Angular\)
 - [ ] DB \(Relational DB & NoSQL\)
 - [ ] CEH
