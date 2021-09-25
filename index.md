@@ -21,7 +21,7 @@
 - Web development
 
 ## What to learn and do
-- [ ] WebDev frameworks \(React || Angular\)
+- [ ] WebDev frameworks \(React or Angular\)
 - [ ] DB \(Relational DB & NoSQL\)
 - [ ] CEH
 - [ ] CTF
