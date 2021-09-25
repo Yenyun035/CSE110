@@ -19,12 +19,12 @@
 - Cybersecurity
 - Web development
 
-## What to learn and try
+## What to learn and do
 - [ ] WebDev frameworks \(React || Angular\)
 - [ ] DB \(Relational DB & NoSQL\)
 - [ ] CEH
 - [ ] CTF
-- [ ] AND MORE...
+- [ ] Practice [skills](#skills-most-familiar-to-the-least)
 
 ## Hobbies
 - Read novels & comics
